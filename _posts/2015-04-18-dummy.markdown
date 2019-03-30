@@ -6,8 +6,11 @@ author: JSK
 categories: Dummy
 ---
 
-git status
-git add
-git commit -m "act name"
-git push -u origin master
+#git push 방법
+1. git status
+2. git add
+3. git commit -m "act name"
+4. git push -u origin master
 를 반복하여 수행
+
+*하루패드를 이용하여 마크다운으로 작성*
